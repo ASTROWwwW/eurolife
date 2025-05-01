@@ -1,0 +1,52 @@
+{
+    "Grapseed 1": {
+        "LieuPosX": 1664.4833984375,
+        "Posz": -101.00848388672,
+        "Lieu": "Petit Appartement",
+        "IdBucket": 6,
+        "LieuPosZ": 41.00176239013672,
+        "Posy": -1007.5467529297,
+        "LieuPosY": 4739.66650390625,
+        "Posx": 266.11526489258
+    },
+    "Grapseed 2": {
+        "LieuPosX": 1674.3485107421876,
+        "Posz": -99.196273803711,
+        "Lieu": "Moyen Appartement",
+        "IdBucket": 7,
+        "LieuPosZ": 42.37112808227539,
+        "LieuPosY": 4658.166015625,
+        "Posy": -1012.7724609375,
+        "Posx": 346.56539916992
+    },
+    "Miror Park 3": {
+        "LieuPosX": 861.7528686523438,
+        "Posz": -99.196273803711,
+        "Lieu": "Moyen Appartement",
+        "IdBucket": 7,
+        "LieuPosZ": 57.156494140625,
+        "Posy": -1012.7724609375,
+        "LieuPosY": -582.8328857421875,
+        "Posx": 346.56539916992
+    },
+    "Miror Park 1": {
+        "LieuPosX": 969.87548828125,
+        "Posz": -99.196273803711,
+        "Lieu": "Moyen Appartement",
+        "IdBucket": 7,
+        "LieuPosZ": 61.13662338256836,
+        "Posy": -1012.7724609375,
+        "LieuPosY": -502.372802734375,
+        "Posx": 346.56539916992
+    },
+    "Miror Park 2": {
+        "LieuPosX": 862.3667602539063,
+        "Posz": -99.196273803711,
+        "Lieu": "Moyen Appartement",
+        "IdBucket": 7,
+        "LieuPosZ": 56.32895278930664,
+        "LieuPosY": -509.6479187011719,
+        "Posy": -1012.7724609375,
+        "Posx": 346.56539916992
+    }
+}

@@ -1,0 +1,6 @@
+ConfigWatson = {
+
+    permnotif = {
+        'admin',
+    }
+}
