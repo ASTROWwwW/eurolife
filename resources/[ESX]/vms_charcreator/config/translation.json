@@ -1,0 +1,578 @@
+{
+    "EN": {
+        "description_create_character": "CRÉEZ VOTRE PERSONNAGE",
+        "title_select_category": "CHOISIR UNE CATÉGORIE",
+        
+        "save_btn": "SAUVEGARDER",
+        "cancel_btn": "ANNULER",
+        
+        "height": "TAILLE",
+        "rotate": "TOURNER",
+        "distance": "DISTANCE",
+
+        "categories": {
+            "parents": "PARENTS",
+            "face": "FACE",
+            "clothes": "VÊTEMENTS",
+            "clothesets": "ENSEMBLES DE VÊTEMENTS",
+            "hairs": "CHEVEUX",
+            "makeup": "MAQUILLAGE"
+        },
+
+        "sex": {
+            "title": "SEXE",
+            "sub_sex": "Identifiant"
+        },
+        "peds": {
+            "title": "PEDS",
+            "sub_peds": "Nom"
+        },
+        "parents": {
+            "title": "PARENTS",
+            "sub_mom": "Maman",
+            "sub_dad": "Papa"
+        },
+        "face_md_weight": {
+            "title": "RESSEMBLANCE",
+            "sub_face_md_weight": "Ressemblance avec les parents"
+        },
+        "skin_md_weight": {
+            "title": "TEINT DE PEAU",
+            "sub_skin_md_weight": "Article"
+        },
+        "nose": {
+            "title": "NEZ",
+            "sub_nose_1": "Largeur du nez",
+            "sub_nose_2": "Hauteur du pic du nez",
+            "sub_nose_3": "Longueur de la pointe du nez",
+            "sub_nose_4": "Hauteur de l'os du nez",
+            "sub_nose_5": "Abaissement de la pointe du nez",
+            "sub_nose_6": "Torsion de l'os du nez"
+        },
+        "cheekbones": {
+            "title": "Pommettes",
+            "sub_cheeks_1": "Hauteur des pommettes",
+            "sub_cheeks_2": "Largeur des pommettes",
+            "sub_cheeks_3": "Largeur des joues"
+        },
+        "lips": {
+            "title": "LÈVRES",
+            "sub_lip_thickness": "Épaisseur des lèvres"
+        },
+        "jaw": {
+            "title": "MÂCHOIRE",
+            "sub_jaw_1": "Largeur de l'os de la mâchoire",
+            "sub_jaw_2": "Longueur de l'os de la mâchoire"
+        },
+        "chin": {
+            "title": "MENTON",
+            "sub_chin_1": "Hauteur du menton",
+            "sub_chin_2": "Longueur du menton",
+            "sub_chin_3": "Largeur du menton",
+            "sub_chin_4": "Taille du trou du menton"
+        },
+        "eye_squint": {
+            "title": "LOUBLAGE DES YEUX",
+            "sub_eye_squint": "Valeur"
+        },
+        "eye_color": {
+            "title": "COULEUR DES YEUX",
+            "sub_eye_color": "Couleur"
+        },
+        "blemishes": {
+            "title": "IMPERFECTIONS",
+            "sub_blemishes_1": "Identifiant",
+            "sub_blemishes_2": "Opacité"
+        },
+        "complexion": {
+            "title": "COMPLEXION",
+            "sub_complexion_1": "Identifiant",
+            "sub_complexion_2": "Opacité"
+        },
+        "sun": {
+            "title": "SOLEIL",
+            "sub_sun_1": "Id",
+            "sub_sun_2": "Opacité"
+        },
+        "moles": {
+            "title": "Grain de beauté",
+            "sub_moles_1": "Identifiant",
+            "sub_moles_2": "Opacité"
+        },
+        "tshirt": {
+            "title": "T-SHIRT",
+            "sub_tshirt_1": "Article",
+            "sub_tshirt_2": "Textures"
+        },
+        "torso": {
+            "title": "TORSE",
+            "sub_torso_1": "Article",
+            "sub_torso_2": "Textures"
+        },
+        "arms": {
+            "title": "BRAS",
+            "sub_arms": "Article",
+            "sub_arms_2": "Textures"
+        },
+        "pants": {
+            "title": "PANTALON",
+            "sub_pants_1": "Article",
+            "sub_pants_2": "Textures"
+        },
+        "shoes": {
+            "title": "CHAUSSURES",
+            "sub_shoes_1": "Article",
+            "sub_shoes_2": "Textures"
+        },
+        "decals": {
+            "title": "AUTOCOLLANTS",
+            "sub_decals_1": "Article",
+            "sub_decals_2": "Texture"
+        },
+        "mask": {
+            "title": "MASQUE",
+            "sub_mask_1": "Article",
+            "sub_mask_2": "Texture"
+        },
+        "bproof": {
+            "title": "Pare-balles",
+            "sub_bproof_1": "Article",
+            "sub_bproof_2": "Texture"
+        },
+        "chain": {
+            "title": "CHAÎNE",
+            "sub_chain_1": "Article",
+            "sub_chain_2": "Texture"
+        },
+        "helmet": {
+            "title": "CHAPEAU",
+            "sub_helmet_1": "Article",
+            "sub_helmet_2": "Texture"
+        },
+        "glasses": {
+            "title": "LUNETTES",
+            "sub_glasses_1": "Article",
+            "sub_glasses_2": "Texture"
+        },
+        "watches": {
+            "title": "MONTRES",
+            "sub_watches_1": "Article",
+            "sub_watches_2": "Texture"
+        },
+        "bracelets": {
+            "title": "BRACELETS",
+            "sub_bracelets_1": "Article",
+            "sub_bracelets_2": "Texture"
+        },
+        "bags": {
+            "title": "SACS",
+            "sub_bags_1": "Article",
+            "sub_bags_2": "Texture"
+        },
+        "ears": {
+            "title": "ACCESSOIRES D'OREILLES",
+            "sub_ears_1": "Article",
+            "sub_ears_2": "Texture"
+        },
+        "clothesets": {
+            "title": "ENSEMBLES DE VÊTEMENTS",
+            "sub_clothesets": "Article",
+            "none": "NONE"
+        },
+        "hair": {
+            "title": "CHEVEUX",
+            "sub_hair_1": "Article",
+            "sub_hair_2": "Textures",
+            "sub_hair_color_1": "Color",
+            "sub_hair_color_2": "Color II"
+        },
+        "beard": {
+            "title": "BARBE",
+            "sub_beard_1": "Article",
+            "sub_beard_2": "Opacité",
+            "sub_beard_3": "Couleur"
+        },
+        "neck_thickness": {
+            "title": "ÉPAISSEUR DU COU",
+            "sub_neck_thickness": "Article"
+        },
+        "ageing": {
+            "title": "VIEILLISSEMENT",
+            "sub_age_1": "Type",
+            "sub_age_2": "Thickness"
+        },
+        "eyebrow": {
+            "title": "SOURCIL",
+            "sub_eyebrows_1": "Article",
+            "sub_eyebrows_2": "Opacité",
+            "sub_eyebrows_3": "Couleur",
+            "sub_eyebrows_5": "Hauteur des sourcils",
+            "sub_eyebrows_6": "Profondeur des sourcils"
+        },
+        "chesthair": {
+            "title": "POILS SUR LA POITRINE",
+            "sub_chest_1": "Article",
+            "sub_chest_2": "Opacité",
+            "sub_chest_3": "Couleur"
+        },
+        "makeup": {
+            "title": "MAQUILLAGE",
+            "sub_makeup_1": "Article",
+            "sub_makeup_2": "Opacité",
+            "sub_makeup_3": "Couleur",
+            "sub_makeup_4": "Couleur II"
+        },
+        "blush": {
+            "title": "ROUGIR",
+            "sub_blush_1": "Article",
+            "sub_blush_2": "Opacité",
+            "sub_blush_3": "Couleur"
+        },
+        "lipstick": {
+            "title": "ROUGE À LÈVRES",
+            "sub_lipstick_1": "Article",
+            "sub_lipstick_2": "Opacité",
+            "sub_lipstick_3": "Couleur"
+        },
+        "parents_names": {
+            "dad": {
+                "0": "Benjamin",
+                "1": "Daniel",
+                "2": "Joshua",
+                "3": "Noah",
+                "4": "Andrew",
+                "5": "Juan",
+                "6": "Alex",
+                "7": "Isaac",
+                "8": "Evan",
+                "9": "Ethan",
+                "10": "Vincent",
+                "11": "Angel",
+                "12": "Diego",
+                "13": "Adrian",
+                "14": "Gabriel",
+                "15": "Michael",
+                "16": "Santiago",
+                "17": "Kevin",
+                "18": "Louis",
+                "19": "Samuel",
+                "20": "Anthony",
+                "42": "John",
+                "43": "Niko",
+                "44": "Claude"
+            },
+            "mom": {
+                "21": "Hannah",
+                "22": "Audrey",
+                "23": "Jasmine",
+                "24": "Giselle",
+                "25": "Amelia",
+                "26": "Isabella",
+                "27": "Zoe",
+                "28": "Ava",
+                "29": "Camilla",
+                "30": "Violet",
+                "31": "Sophia",
+                "32": "Eveline",
+                "33": "Nicole",
+                "34": "Ashley",
+                "35": "Grace",
+                "36": "Brianna",
+                "37": "Natalie",
+                "38": "Olivia",
+                "39": "Elizabeth",
+                "40": "Charlotte",
+                "41": "Emma",
+                "45": "Misty"
+            }
+        }
+    },
+    "PL": {
+        "description_create_character": "STWÓRZ SWOJĄ POSTAĆ",
+        "title_select_category": "WYBIERZ KATEGORIĘ",
+        
+        "save_btn": "ZAPISZ",
+        "cancel_btn": "ANULUJ",
+        
+        "height": "WZROST",
+        "rotate": "OBRÓT",
+        "distance": "DYSTANS",
+
+        "categories": {
+            "parents": "RODZICE",
+            "face": "TWARZ",
+            "clothes": "UBRANIA",
+            "clothesets": "GOTOWE UBIORY",
+            "hairs": "OWŁOSIENIE",
+            "makeup": "MAKIJAŻ"
+        },
+
+        "sex": {
+            "title": "PŁEĆ",
+            "sub_sex": "Wartość"
+        },
+        "peds": {
+            "title": "PED",
+            "sub_peds": "Nazwa"
+        },
+        "parents": {
+            "title": "PARENTS",
+            "sub_mom": "Mama",
+            "sub_dad": "Tata"
+        },
+        "face_md_weight": {
+            "title": "PODOBIEŃSTWO",
+            "sub_face_md_weight": "Podobieństwo do rodziców"
+        },
+        "skin_md_weight": {
+            "title": "TONACJA SKÓRY",
+            "sub_skin_md_weight": "Wartość"
+        },
+        "nose": {
+            "title": "NOS",
+            "sub_nose_1": "Szerokość nosa",
+            "sub_nose_2": "Wysokość czubka nosa",
+            "sub_nose_3": "Długość czubka nosa",
+            "sub_nose_4": "Wysokość kości nosa",
+            "sub_nose_5": "Obniżenie czubka nosa",
+            "sub_nose_6": "Skrzywienie nosa"
+        },
+        "cheekbones": {
+            "title": "KOŚCI POLICZKOWE",
+            "sub_cheeks_1": "Wysokość kości",
+            "sub_cheeks_2": "Szerokość kości",
+            "sub_cheeks_3": "Szerokość policzków"
+        },
+        "lips": {
+            "title": "USTWA",
+            "sub_lip_thickness": "Grubość"
+        },
+        "jaw": {
+            "title": "SZCZĘKA",
+            "sub_jaw_1": "Szerokość kości",
+            "sub_jaw_2": "Długość kości"
+        },
+        "chin": {
+            "title": "PODBRÓDEK",
+            "sub_chin_1": "Wysokość",
+            "sub_chin_2": "Długość",
+            "sub_chin_3": "Szerokość",
+            "sub_chin_4": "Rozmiar otworu"
+        },
+        "eye_squint": {
+            "title": "ZMRUŻENIE OCZU",
+            "sub_eye_squint": "Wartość"
+        },
+        "eye_color": {
+            "title": "KOLOR OCZU",
+            "sub_eye_color": "Kolor"
+        },
+        "blemishes": {
+            "title": "SKAZY",
+            "sub_blemishes_1": "Wartość",
+            "sub_blemishes_2": "Krycie"
+        },
+        "complexion": {
+            "title": "CERA",
+            "sub_complexion_1": "Wartość",
+            "sub_complexion_2": "Krycie"
+        },
+        "sun": {
+            "title": "OPALENIE",
+            "sub_sun_1": "Wartość",
+            "sub_sun_2": "Krycie"
+        },
+        "moles": {
+            "title": "PIEGI",
+            "sub_moles_1": "Wartość",
+            "sub_moles_2": "Krycie"
+        },
+        "tshirt": {
+            "title": "KOSZULKA",
+            "sub_tshirt_1": "Przedmiot",
+            "sub_tshirt_2": "Tekstura"
+        },
+        "torso": {
+            "title": "BLUZA",
+            "sub_torso_1": "Przedmiot",
+            "sub_torso_2": "Tekstura"
+        },
+        "arms": {
+            "title": "RAMIONA",
+            "sub_arms": "Przedmiot",
+            "sub_arms_2": "Tekstura"
+        },
+        "pants": {
+            "title": "SPODNIE",
+            "sub_pants_1": "Przedmiot",
+            "sub_pants_2": "Tekstura"
+        },
+        "shoes": {
+            "title": "BUTY",
+            "sub_shoes_1": "Przedmiot",
+            "sub_shoes_2": "Tekstura"
+        },
+        "decals": {
+            "title": "DODATKI",
+            "sub_decals_1": "Przedmiot",
+            "sub_decals_2": "Tekstura"
+        },
+        "mask": {
+            "title": "MASKI",
+            "sub_mask_1": "Przedmiot",
+            "sub_mask_2": "Tekstura"
+        },
+        "bproof": {
+            "title": "KAMIZELKI",
+            "sub_bproof_1": "Przedmiot",
+            "sub_bproof_2": "Tekstura"
+        },
+        "chain": {
+            "title": "NASZYJNIKI",
+            "sub_chain_1": "Przedmiot",
+            "sub_chain_2": "Tekstura"
+        },
+        "helmet": {
+            "title": "NAKRYCIA GŁOWY",
+            "sub_helmet_1": "Przedmiot",
+            "sub_helmet_2": "Tekstura"
+        },
+        "glasses": {
+            "title": "OKULARY",
+            "sub_glasses_1": "Przedmiot",
+            "sub_glasses_2": "Tekstura"
+        },
+        "watches": {
+            "title": "ZEGARKI",
+            "sub_watches_1": "Przedmiot",
+            "sub_watches_2": "Tekstura"
+        },
+        "bracelets": {
+            "title": "BRANSOLETKI",
+            "sub_bracelets_1": "Przedmiot",
+            "sub_bracelets_2": "Tekstura"
+        },
+        "bags": {
+            "title": "TORBY",
+            "sub_bags_1": "Przedmiot",
+            "sub_bags_2": "Tekstura"
+        },
+        "ears": {
+            "title": "AKCESORIA DO USZU",
+            "sub_ears_1": "Przedmiot",
+            "sub_ears_2": "Tekstura"
+        },
+        "clothesets": {
+            "title": "GOTOWY UBIÓR",
+            "sub_clothesets": "Ubiór",
+            "none": "NONE"
+        },
+        "hair": {
+            "title": "WŁOSY",
+            "sub_hair_1": "Wartość",
+            "sub_hair_2": "Tekstura",
+            "sub_hair_color_1": "Kolor",
+            "sub_hair_color_2": "Kolor II"
+        },
+        "beard": {
+            "title": "BRODA",
+            "sub_beard_1": "Wartość",
+            "sub_beard_2": "Krycie",
+            "sub_beard_3": "Kolor"
+        },
+        "neck_thickness": {
+            "title": "GRUBOŚĆ SZYI",
+            "sub_neck_thickness": "Wartość"
+        },
+        "ageing": {
+            "title": "ZMARSZCZKI",
+            "sub_age_1": "Type",
+            "sub_age_2": "Thickness"
+        },
+        "eyebrow": {
+            "title": "BRWI",
+            "sub_eyebrows_1": "Wartość",
+            "sub_eyebrows_2": "Krycie",
+            "sub_eyebrows_3": "Kolor",
+            "sub_eyebrows_5": "Wysokość",
+            "sub_eyebrows_6": "Głębokość"
+        },
+        "chesthair": {
+            "title": "WŁOSY KLATKI PIERSIOWEJ",
+            "sub_chest_1": "Wartość",
+            "sub_chest_2": "Krycie",
+            "sub_chest_3": "Kolor"
+        },
+        "makeup": {
+            "title": "MAKIJAŻ",
+            "sub_makeup_1": "Wartość",
+            "sub_makeup_2": "Krycie",
+            "sub_makeup_3": "Kolor",
+            "sub_makeup_4": "Kolor II"
+        },
+        "blush": {
+            "title": "RUMIEŃCE",
+            "sub_blush_1": "Wartość",
+            "sub_blush_2": "Krycie",
+            "sub_blush_3": "Kolor"
+        },
+        "lipstick": {
+            "title": "SZMINKA",
+            "sub_lipstick_1": "Wartość",
+            "sub_lipstick_2": "Krycie",
+            "sub_lipstick_3": "Kolor"
+        },
+        "parents_names": {
+            "dad": {
+                "0": "Benjamin",
+                "1": "Daniel",
+                "2": "Joshua",
+                "3": "Noah",
+                "4": "Andrew",
+                "5": "Juan",
+                "6": "Alex",
+                "7": "Isaac",
+                "8": "Evan",
+                "9": "Ethan",
+                "10": "Vincent",
+                "11": "Angel",
+                "12": "Diego",
+                "13": "Adrian",
+                "14": "Gabriel",
+                "15": "Michael",
+                "16": "Santiago",
+                "17": "Kevin",
+                "18": "Louis",
+                "19": "Samuel",
+                "20": "Anthony",
+                "42": "John",
+                "43": "Niko",
+                "44": "Claude"
+            },
+            "mom": {
+                "21": "Hannah",
+                "22": "Audrey",
+                "23": "Jasmine",
+                "24": "Giselle",
+                "25": "Amelia",
+                "26": "Isabella",
+                "27": "Zoe",
+                "28": "Ava",
+                "29": "Camilla",
+                "30": "Violet",
+                "31": "Sophia",
+                "32": "Eveline",
+                "33": "Nicole",
+                "34": "Ashley",
+                "35": "Grace",
+                "36": "Brianna",
+                "37": "Natalie",
+                "38": "Olivia",
+                "39": "Elizabeth",
+                "40": "Charlotte",
+                "41": "Emma",
+                "45": "Misty"
+            }
+        }
+    }
+}
